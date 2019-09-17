@@ -1,3 +1,10 @@
+
 <resources>
     <string name="app_name">TPDM_U1_Practica2_15401022</string>
+    <array name="menulist">
+        <item>Capturar valores</item>
+        <item>Mostrar valores</item>
+        <item>Acerca de...</item>
+        <item>Salir</item>
+    </array>
 </resources>
